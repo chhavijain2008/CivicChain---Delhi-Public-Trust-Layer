@@ -1,1 +1,2 @@
 # CivicChain---Delhi-Public-Trust-Layer
+CivicChain is a tamper-proof platform keeping an honest, permanent record of civic complaints, proving fixes with verified evidence, not status flips. It adds a Citizen Jury to fairly resolve disputes, a Budget-to-Outcome layer linking spend to verified fixes, and Spotlight, turning chronically unresolved complaints into factual, journalist-ready accountability dossiers.
